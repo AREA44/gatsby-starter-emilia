@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "name": "gatsby-starter-emilia",
+  "description": "📷 of AREA44",
+  "version": "1.0.0",
+  "author": "AREA44",
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build --prefix-paths",
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@lekoarts/gatsby-theme-emilia": "3.0.7",
+    "gatsby": "4.12.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  }
+}
