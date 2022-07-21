@@ -3,8 +3,8 @@ module.exports = {
   siteMetadata: {
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/master/themes/gatsby-theme-emilia-core/gatsby-config.js
     siteTitle: `Gatsby Starter Emilia`,
-    siteTitleAlt: `Gatsby Starter Emilia | 📷 from AREA44`,
-    siteHeadline: `Gatsby Starter Emilia | 📷 from AREA44`,
+    siteTitleAlt: `Gatsby Starter Emilia | 📷 by AREA44`,
+    siteHeadline: `Gatsby Starter Emilia | 📷 by AREA44`,
     siteUrl: `https://area44.github.io/gatsby-starter-emilia/`,
     siteDescription: "📷 from AREA44",
     siteLanguage: `en`,
